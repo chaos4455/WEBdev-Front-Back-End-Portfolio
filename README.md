@@ -55,6 +55,10 @@ Este repositório é uma demonstração abrangente do meu trabalho em **Desenvol
 - **Link do Repositório**: [TypeScrypt-Netflix-Login-MVP](https://github.com/chaos4455/TypeScrypt-Netflix-Login-MVP)
 ![Netflix Login](https://img.shields.io/badge/Project-Netflix%20Login-brightgreen.svg)
 
+![chrome_ZPJNf9uURM](https://github.com/user-attachments/assets/cc82ac9b-6c9f-4ede-9e6b-572a59203db4)
+![chrome_nCRqnbvhKQ](https://github.com/user-attachments/assets/ac784666-ef2f-4647-9d78-282c3b3d86ca)
+
+
 ### 2. **API Completa de Tokenomics**
 - **Descrição**: Uma API RESTful robusta desenvolvida com **Node.js**, **Express** e **SQLite**, focada em um projeto de tokenomics, permitindo a manipulação eficiente de dados e integração com outras aplicações.
 - **Tecnologias**: 
@@ -73,6 +77,15 @@ Este repositório é uma demonstração abrangente do meu trabalho em **Desenvol
   - Apache
 - **Link do Repositório**: [Argo-CD-Deployments-flows](https://github.com/chaos4455/Argo-CD-Deployments-flows)
 ![Kubernetes](https://img.shields.io/badge/Project-Auto%20Scaling%20K8s-orange.svg)
+
+![K8Studio_nyKxDJliii](https://github.com/user-attachments/assets/19a206a0-f9bb-42b3-8ebc-57576f474797)
+![K8Studio_9RKrqsVnLP](https://github.com/user-attachments/assets/c890dae8-e479-4140-855d-dad13526f95d)
+![K8Studio_h3cL91Zy13](https://github.com/user-attachments/assets/e4b758ce-a271-49d6-afa2-629f8c8a2efa)
+![K8Studio_jRnHIqOd3X](https://github.com/user-attachments/assets/9fe9b238-4cdd-4483-81da-f36fa5a365b9)
+
+![chrome_OOUhtZ3QHL](https://github.com/user-attachments/assets/8838bca0-a010-49c3-8298-bf06f845177d)
+![chrome_uW7jeHFq3r](https://github.com/user-attachments/assets/ce8d15e9-5dd9-43b5-bec3-2e351411869a)
+![chrome_Yd4nQdpRWP](https://github.com/user-attachments/assets/46e0459d-a59b-4538-8ae0-f838fea57ede)
 
 ### 4. **Currículo de DevOps**
 - **Descrição**: Resumo das minhas habilidades e experiências em DevOps, demonstrando minha proficiência em práticas de integração e entrega contínuas.
