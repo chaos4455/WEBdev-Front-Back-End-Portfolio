@@ -55,12 +55,6 @@ Para detalhar ainda mais a minha jornada e conhecimentos em arquitetura de siste
 - **Soluções Inovadoras**: Exemplos de design que aplicam as melhores práticas em arquitetura de software.
 - **Metodologias Ágeis**: Abordagens que garantem flexibilidade e adaptabilidade em projetos de software.
 
-### 🚀 Integração do Conhecimento
-
-Integrando os conhecimentos adquiridos no repositório de arquitetura com as práticas de desenvolvimento no back end, você pode ter uma visão mais ampla das soluções que desenvolvo e de como aplico conceitos de design avançados para criar sistemas escaláveis e robustos.
-
-Explore os diagramas e compreenda melhor a lógica por trás da arquitetura de cada solução implementada neste repositório!
-
 ## 📈 Exemplos de Projetos
 # 🚀 Projetos do Portfólio de Elias Andrade
 
