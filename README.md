@@ -39,6 +39,28 @@ Este repositório é uma vitrine das minhas habilidades em desenvolvimento web, 
 - **Git**: Controle de versão para rastrear mudanças no código e colaborar eficientemente em equipe.
 - **CI/CD**: Integração contínua e entrega contínua para automação de testes e implantações.
 
+## 🔗 Referência ao Repositório de Arquitetura
+
+Neste repositório de **Back End** e **Full Stack**, apresento as soluções que desenvolvi, com foco em implementação prática e integração de tecnologias. Para enriquecer ainda mais a sua compreensão sobre meu conhecimento em **Arquitetura de Sistemas**, convido você a explorar meu repositório dedicado à **Arquitetura**:
+
+🔗 [Repositório de Arquitetura de Sistemas](https://github.com/chaos4455/architeture-diagrams)
+
+### 🛠️ O que você encontrará:
+
+![Arquitetura de Sistemas](https://img.shields.io/badge/Arquitetura-de%20Sistemas-blue?style=flat-square)
+![Diagramas](https://img.shields.io/badge/Diagramas-Visuais-4caf50?style=flat-square)
+![Soluções Inovadoras](https://img.shields.io/badge/Solu%C3%A7%C3%B5es-Inovadoras-yellow?style=flat-square)
+
+- **Diagramas Visuais**: Representações gráficas que ilustram a arquitetura de sistemas complexos.
+- **Soluções Inovadoras**: Exemplos de design que aplicam as melhores práticas em arquitetura de software.
+- **Metodologias Ágeis**: Abordagens que garantem flexibilidade e adaptabilidade em projetos de software.
+
+### 🚀 Integração do Conhecimento
+
+Integrando os conhecimentos adquiridos no repositório de arquitetura com as práticas de desenvolvimento no back end, você pode ter uma visão mais ampla das soluções que desenvolvo e de como aplico conceitos de design avançados para criar sistemas escaláveis e robustos.
+
+Explore os diagramas e compreenda melhor a lógica por trás da arquitetura de cada solução implementada neste repositório!
+
 ## 📈 Exemplos de Projetos
 # 🚀 Projetos do Portfólio de Elias Andrade
 
