@@ -39,9 +39,9 @@ Este repositório é uma vitrine das minhas habilidades em desenvolvimento web, 
 - **Git**: Controle de versão para rastrear mudanças no código e colaborar eficientemente em equipe.
 - **CI/CD**: Integração contínua e entrega contínua para automação de testes e implantações.
 
-## 🔗 Referência ao Repositório de Arquitetura
+## 🔗 Repositório de Arquitetura
 
-Neste repositório de **Back End** e **Full Stack**, apresento as soluções que desenvolvi, com foco em implementação prática e integração de tecnologias. Para enriquecer ainda mais a sua compreensão sobre meu conhecimento em **Arquitetura de Sistemas**, convido você a explorar meu repositório dedicado à **Arquitetura**:
+Para detalhar ainda mais a minha jornada e conhecimentos em arquitetura de sistemas, visite o repo específico sobre meu conhecimento em **Arquitetura de Sistemas**, acesse ábaixo o repositório dedicado à **Arquitetura**:
 
 🔗 [Repositório de Arquitetura de Sistemas](https://github.com/chaos4455/architeture-diagrams)
 
