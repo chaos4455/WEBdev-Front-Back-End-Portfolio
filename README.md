@@ -55,8 +55,7 @@ Para detalhar ainda mais a minha jornada e conhecimentos em arquitetura de siste
 - **Soluções Inovadoras**: Exemplos de design que aplicam as melhores práticas em arquitetura de software.
 - **Metodologias Ágeis**: Abordagens que garantem flexibilidade e adaptabilidade em projetos de software.
 
-## 📈 Exemplos de Projetos
-# 🚀 Projetos do Portfólio de Elias Andrade
+## 📈 Exemplos de Projetos - # 🚀 Projetos do Portfólio
 
 Este repositório é uma demonstração abrangente do meu trabalho em **Desenvolvimento Front-End e Back-End**, onde aplico tecnologias modernas para resolver desafios complexos de negócios. Abaixo estão alguns dos meus projetos mais relevantes, cada um acompanhado de uma descrição técnica e os links para os repositórios no GitHub.
 
