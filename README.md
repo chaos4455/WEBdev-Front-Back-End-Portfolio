@@ -202,3 +202,19 @@ Se você estiver interessado em colaborar ou aprender mais sobre meus projetos, 
 ---
 
 🌐 **Vamos juntos transformar ideias em soluções!** 🌐
+
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/elias-andrade)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia rsrsrs . 🚀❤️
