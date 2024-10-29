@@ -55,11 +55,22 @@ Para detalhar ainda mais a minha jornada e conhecimentos em arquitetura de siste
 - **Soluções Inovadoras**: Exemplos de design que aplicam as melhores práticas em arquitetura de software.
 - **Metodologias Ágeis**: Abordagens que garantem flexibilidade e adaptabilidade em projetos de software.
 
-## 📈 Exemplos de Projetos - # 🚀 Projetos do Portfólio
+## 📈 Exemplos de Projetos principais do Portfólio
 
 Este repositório é uma demonstração abrangente do meu trabalho em **Desenvolvimento Front-End e Back-End**, onde aplico tecnologias modernas para resolver desafios complexos de negócios. Abaixo estão alguns dos meus projetos mais relevantes, cada um acompanhado de uma descrição técnica e os links para os repositórios no GitHub.
 
-## 🏗️ Projetos Destacados
+
+# 🚀 **Prometheus Business AI Copilot**: Interface Web para Chatbots e Copilotos IA
+
+🔗 **Repositório**: [Prometheus-Chatbot-WEB-Interface](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface)  
+🎨 **Tecnologias Utilizadas**: **React**, **Node.js**, **Tailwind CSS**  
+⚙️ **Características**: Interface web **totalmente modular** para chatbots e copilotos, permitindo fácil integração com qualquer API de IA. Projetado com **prompt engineering** e escalabilidade em mente, oferece uma base sólida para aplicações em IA e automação. 🌐  
+🛠️ **Licença**: **MIT** | **Desenvolvimento Contínuo**: Versão **0.0.2** - sempre evoluindo! 📈  
+🏆 **Badges & Shields**: ![React](https://img.shields.io/badge/React-16.8%2B-blue) ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1.0%2B-pink) ![MIT License](https://img.shields.io/badge/License-MIT-yellowgreen) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)  
+
+![chrome_U5eS7lri0f](https://github.com/user-attachments/assets/51630b16-fd05-4d63-a7b9-ade716c883ae)
+
+## 🏗️ Outros Projetos Destacados
 
 ### 1. **Teste de Tela de Login Netflix**
 - **Descrição**: Um projeto MVP que simula a tela de login do Netflix, utilizando **Node.js**, **TypeScript** e **Tailwind CSS** para criar uma interface de usuário moderna e responsiva.
