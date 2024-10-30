@@ -60,6 +60,7 @@ Para detalhar ainda mais a minha jornada e conhecimentos em arquitetura de siste
 Este repositório é uma demonstração abrangente do meu trabalho em **Desenvolvimento Front-End e Back-End**, onde aplico tecnologias modernas para resolver desafios complexos de negócios. Abaixo estão alguns dos meus projetos mais relevantes, cada um acompanhado de uma descrição técnica e os links para os repositórios no GitHub.
 
 ## 🎨 **Streamlit Mockups, POCs & MVPs** 🌐💻
+Clique no botão abaixo pra conferir.
 [![Repo](https://img.shields.io/badge/GitHub-Streamlit--IA--Projects--2024-blue?style=for-the-badge&logo=github)](https://github.com/chaos4455/Streamlit-IA-Projects-2024)
 > Explore uma variedade de **mockups, POCs e MVPs** criados com Streamlit, incluindo aplicações em **machine learning**, **processamento de vídeos**, **IA**, **chatbots** e **automação de tarefas**.
 
