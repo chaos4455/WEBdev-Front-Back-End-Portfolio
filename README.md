@@ -17,7 +17,12 @@
 
 Este repositório é uma vitrine das minhas habilidades em desenvolvimento web, onde apresento exemplos de como aplico tecnologias como **Python** e **Node.js** para resolver problemas complexos de empresas e negócios. Aqui você encontrará uma seleção de projetos que demonstram minha capacidade de criar soluções robustas e escaláveis, abrangendo todo o ciclo de desenvolvimento.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas 🛠️ Atualmente sigo estudando e buscando aprimorar a qualidade da interface e funcionalidade dos meus sistemas: Abaixo uma interface de um projeto mais recente / 10 2024 
+
+![chrome_MKU6eSlNhL](https://github.com/user-attachments/assets/4d613da1-b794-41a5-a79d-69178540a2b3)
+![chrome_ZBOsQrkujN](https://github.com/user-attachments/assets/ba55630e-bb53-423e-92a2-0d3643425e63)
+![chrome_dhdiH5hjNk](https://github.com/user-attachments/assets/29647b87-02b0-4014-a74c-f590320725f5)
+
 
 ### Front-End
 - **React.js**: Construção de interfaces de usuário dinâmicas e responsivas.
